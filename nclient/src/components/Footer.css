@@ -1,0 +1,11 @@
+.footer{
+    background-color:rgb(228, 220, 247);
+    color:rgb(94, 54, 238);
+    text-align: center;
+    padding:0.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position:relative;
+    bottom:0px;
+    width:100%;
+    margin-top:85px;
+}

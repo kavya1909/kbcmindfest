@@ -1,0 +1,45 @@
+.Our-services{
+    color: white;
+  
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding:2rem 1rem;
+}
+.Our-services-heading{
+    text-align: center;
+    font-size: 50px;
+}
+.Our-services-content{
+    color:rgb(134, 40, 221);
+    padding: 1rem 8rem ;
+    height:300px;
+    
+}
+.align-services{
+    display:grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+.service{
+    border: solid 1px rgb(228, 200, 255);
+    background-color: rgb(253, 250, 255);
+    display: inline-block;
+    padding:3px ; 
+     margin:20px 35px 40px;
+    width: 120px;
+    height: 135px;
+    border-radius: 8px;
+    
+    text-align: center;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.service-image{
+    height: 75px;
+    width: 110px;
+    margin:1.5px 1.5px 5px;
+    border-radius: 8px;
+}
+@media (max-width: 900px) {
+    .align-services{
+        display:grid;
+        grid-template-columns: auto;
+    }
+}

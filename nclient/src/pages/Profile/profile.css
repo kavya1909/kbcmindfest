@@ -1,0 +1,22 @@
+.user-heading
+{
+   
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+}
+.user{
+    background-color:white;
+    color:blueviolet;
+
+    margin:2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+
+}
+.user-content
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+}

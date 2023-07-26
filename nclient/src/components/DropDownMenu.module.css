@@ -1,0 +1,8 @@
+.DropDownMenu .box {
+    border: 1px solid black;
+    background-color: black;
+    color:white;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+}

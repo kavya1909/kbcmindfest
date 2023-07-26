@@ -1,0 +1,16 @@
+.intro{
+    color: white;
+    
+    margin: 9rem 2rem;
+}
+.intro-title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+.intro-content{
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;  
+    padding: 1rem 17.8rem;
+    text-align: justify;
+}

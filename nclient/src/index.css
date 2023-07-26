@@ -1,0 +1,23 @@
+@import "open-props/style";
+/* @import "open-props/normalize"; */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+   
+    color: var(--gray-9);
+    background: rgb(186,145,246);
+  background: linear-gradient(90deg, rgba(186,145,246,1) 0%, rgba(128,0,255,1) 39%, rgba(84,9,121,1) 100%);
+    font-family: 'Open Sans', sans-serif;
+}
+
+a, a:visited {
+    text-decoration: none;
+    color: inherit;
+}

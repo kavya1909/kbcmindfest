@@ -1,0 +1,9 @@
+.subject_section_kbc{
+    margin:2%;
+    padding:12px;
+    border-radius:10px;
+    background-color: white;
+    color:blueviolet;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

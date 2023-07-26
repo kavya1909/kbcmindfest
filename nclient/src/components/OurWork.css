@@ -1,0 +1,25 @@
+.Our-Work-section{
+  color:white;
+  
+ float: right;
+ width:50%;
+ padding-top: 6%;
+ padding-right: 5%;
+ 
+  
+ }
+ 
+ .section-title{
+   text-align:justify;
+   padding-left: 30px;
+   font-size: 54px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   word-spacing:10px;
+ }
+ .section-content{
+   text-align: justify;
+   padding-left: 30px;
+   font-size: 25px;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   padding-right:15%;
+ }

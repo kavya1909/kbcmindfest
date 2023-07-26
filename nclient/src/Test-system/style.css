@@ -1,0 +1,37 @@
+.Quiz_container_display{
+    display: grid;
+    grid-template-columns:auto;
+    background-color:black;
+    margin:0% 10%;
+   min-height: 90vh;
+   padding-top: 3rem;
+}
+
+.lifelines_tests{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-column-gap: 20px;
+    padding:1rem 1rem;
+}
+.get_hint{
+    background-color:white;
+    color:red;
+  
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding:5px;
+    border-radius:10px;
+}
+
+
+.lifelines_tests div{
+    background-color: black;
+    color:white;
+    border-radius: 14px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align:center;
+}
+
+.question_container{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding:1rem;
+}

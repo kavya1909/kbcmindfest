@@ -1,0 +1,36 @@
+.header {
+    padding: var(--size-1) var(--size-1);
+    display: flex;
+    justify-content: space-between;
+    grid-template-columns: auto auto;
+    align-items: center;
+    flex-wrap: wrap;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    background-color:rgb(228, 220, 247);
+    color:rgb(94, 54, 238);
+    top:0px;
+    width:100%;
+}
+
+@media (max-width: 900px) {
+    .header {
+        padding: 10px;
+    } 
+    .header > :nth-child(1) {
+        order: 1;
+        width: auto;
+    }
+    .header > :nth-child(2) {
+        width: 100%;
+        order: 3;
+        flex: 1 0 100%;
+        margin: 10px 0;
+    }
+    .header > :nth-child(2) > * {
+        width: 100%;
+    }
+    .header > :nth-child(3) {
+        order: 2;
+        width: auto;
+    }
+}
