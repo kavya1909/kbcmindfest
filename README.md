@@ -22,12 +22,12 @@
   - **50:50** – Eliminate two wrong answers  
   - **Double Dip** – Two chances to answer a question  
   - **Question Flip** – Swap the current question with a new one  
-  - **Expert Advice** – Get AI-generated hints or suggestions
+  - **Expert Advice** – Get hints or suggestions
 
 - 🪙 **Coin-Based Reward System**  
   - Earn coins by completing quizzes  
-  - Use coins to unlock lifelines and hints  
-  - Exchange coins for in-app rewards or level up faster
+  - Use coins to unlock hints  
+  - Exchange coins for in-app rewards
 
 - 👤 **User Dashboard**  
   Track quiz history, coins, performance, and rewards.
